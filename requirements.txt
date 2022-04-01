@@ -1,2 +1,4 @@
 openvino==2022.1.0
 opencv_python==4.5.5.64
+openvino_dev==2022.1.0
+jupyter==1.0.0
